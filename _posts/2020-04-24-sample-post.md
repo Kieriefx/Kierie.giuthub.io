@@ -1,5 +1,5 @@
 ---
-title: Sample Post
+title: "Clean Your Room"
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
 description: A sample post to show how the content will look and how will different
@@ -10,11 +10,8 @@ tags:
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+I, Kierie, have written and fully produced my debut song "Clean Your Room" from the comfort of my bedroom. In this post, I will go more in-depth about the process and inspirations that entailed the process which brought 'Clean Your Room' to fruition
+
 
 ---
 
